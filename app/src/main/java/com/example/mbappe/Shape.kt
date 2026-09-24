@@ -2,7 +2,7 @@ package com.example.mbappe
 
 abstract class Shape (
     x: Int,
-    y: Int,
+    y: Int
 ) {
-    val color: String = "blue"
+    val color: String = "Magenta"
 }
